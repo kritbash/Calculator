@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box{
+    width: 422px;
+    height: 500px;
+    border: 2px black solid;
+    background-color: rgb(65, 64, 64);
+    margin: 30px;
+}
+#numberbox{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 60px;
+    width: 300px;
+    height: 300px;
+}
+#displaybox{
+    font-size: 3rem;
+    width: 335px;
+    height: 100px;
+    border: 2px black solid;
+    margin: 30px;
+    background-color: white;
+}
+#box1{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box2{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box3{
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    background-color: cornflowerblue;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box4{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box5{
+    font-size: 2rem;
+    background-color: cornflowerblue;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box6{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box7{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box8{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box9{
+    background-color: cornflowerblue;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
